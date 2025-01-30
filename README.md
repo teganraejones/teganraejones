@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teganraejones
 - 👀 I’m interested in working on data science projects
 - 🌱 I’m currently a Data Science Master's Student at Rice University
-- 💞️ I’m looking to collaborate on any project to gain relevant experience
+- 💞️ I’m looking to collaborate on any project to gain experience
 - 😄 Pronouns: she/her
 
 <!---
